@@ -7,3 +7,5 @@ semishoting-cmd.txt
 STM32F407-F429_reference_manual.pdf
 stm32f429-datasheet.pdf
 
+#Static directories
+Software&Toolchain/*
