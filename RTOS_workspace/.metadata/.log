@@ -1,0 +1,885 @@
+!SESSION 2020-12-19 21:52:20.146 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-19 21:58:27.582
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-19 21:58:59.538
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-19 21:59:00.977
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 22:16:13.666
+!MESSAGE Indexed 'STM32_HelloWorld' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 22:16:39.524
+!MESSAGE Indexed 'STM32_HelloWorld' (3 sources, 0 headers) in 0.165 sec: 69 declarations; 45 references; 10 unresolved inclusions; 0 syntax errors; 24 unresolved names (17%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 23:06:17.987
+!MESSAGE Indexed 'STM32_HelloWorld' (0 sources, 0 headers) in 0.037 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 23:06:42.909
+!MESSAGE Indexed 'STM32_HelloWorld' (3 sources, 0 headers) in 0.065 sec: 69 declarations; 45 references; 10 unresolved inclusions; 0 syntax errors; 24 unresolved names (17%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 23:23:31.237
+!MESSAGE Indexed 'STM32_HelloWorld' (46 sources, 97 headers) in 5.39 sec: 7,621 declarations; 51,551 references; 0 unresolved inclusions; 2 syntax errors; 5 unresolved names (0.0084%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 23:23:48.751
+!MESSAGE Indexed 'STM32_HelloWorld' (46 sources, 97 headers) in 2.95 sec: 7,621 declarations; 51,551 references; 0 unresolved inclusions; 2 syntax errors; 5 unresolved names (0.0084%)
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 23:25:34.999
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1965)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-19 23:35:40.394
+!MESSAGE Indexed 'STM32_HelloWorld' (46 sources, 98 headers) in 7.38 sec: 8,232 declarations; 33,032 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+!SESSION 2020-12-20 14:07:18.606 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-20 14:08:20.716
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-20 14:09:19.541
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-20 14:09:21.643
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-20 14:17:23.950
+!MESSAGE Indexed 'STM32_HelloWorld' (55 sources, 132 headers) in 12.7 sec: 13,681 declarations; 43,957 references; 1 unresolved inclusions; 150 syntax errors; 69 unresolved names (0.12%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-20 14:34:39.033
+!MESSAGE Indexed 'STM32_HelloWorld' (55 sources, 133 headers) in 5.32 sec: 14,118 declarations; 47,523 references; 0 unresolved inclusions; 143 syntax errors; 55 unresolved names (0.089%)
+
+!ENTRY org.eclipse.jface 2 0 2020-12-20 14:34:52.888
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:515)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1965)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+!SESSION 2020-12-25 13:06:19.418 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-25 13:06:49.348
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-25 13:07:30.424
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-25 13:07:31.586
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2020-12-28 17:12:13.149 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-28 17:13:45.394
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-28 17:15:36.945
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-28 17:15:41.749
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.jface 2 0 2020-12-28 18:20:45.359
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:515)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1965)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.debug.ui 4 2 2020-12-28 20:01:44.701
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.ui".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.debug.ui 4 120 2020-12-28 20:01:45.232
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.debug.ui 4 2 2020-12-28 20:32:51.165
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.ui".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.debug.ui 4 120 2020-12-28 20:32:51.240
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2020-12-28 20:32:53.295
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:242)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:106)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:94)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:299)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:860)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:719)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1017)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1220)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2020-12-28 20:32:53.346
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2020-12-28 20:32:53.346
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 0
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2020-12-28 20:33:16.550
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:242)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:106)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:94)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:299)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:860)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:719)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1017)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1220)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2020-12-28 20:33:16.570
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2020-12-28 20:33:16.570
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 0
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2020-12-28 20:35:52.910
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:242)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:106)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:94)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:299)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:860)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:719)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1017)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1220)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2020-12-28 20:35:52.910
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2020-12-28 20:35:52.910
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 0
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+
+!ENTRY org.eclipse.debug.ui 4 2 2020-12-28 20:40:27.490
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.ui".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.debug.ui 4 120 2020-12-28 20:40:27.500
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.createService(DebugContextManager.java:149)
+	at org.eclipse.debug.internal.ui.contexts.DebugContextManager.getContextService(DebugContextManager.java:201)
+	at org.eclipse.debug.ui.DebugUITools.getPartDebugContext(DebugUITools.java:367)
+	at org.eclipse.debug.internal.ui.views.memory.AddMemoryBlockAction.debugContextChanged(AddMemoryBlockAction.java:399)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService$1.run(DebugWindowContextService.java:229)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:226)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.notify(DebugWindowContextService.java:202)
+	at org.eclipse.debug.internal.ui.contexts.DebugWindowContextService.debugContextChanged(DebugWindowContextService.java:411)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$ContextProviderProxy.debugContextChanged(LaunchView.java:517)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider$1.run(AbstractDebugContextProvider.java:76)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.ui.contexts.AbstractDebugContextProvider.fire(AbstractDebugContextProvider.java:73)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$TreeViewerContextProvider.activate(LaunchView.java:380)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$1.selectionChanged(LaunchView.java:477)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:148)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2118)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1655)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1084)
+	at org.eclipse.debug.internal.ui.viewers.model.InternalTreeModelViewer.trySelection(InternalTreeModelViewer.java:1020)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.handleSelect(TreeModelContentProvider.java:1661)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1299)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateNodes(TreeModelContentProvider.java:1305)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.updateModel(TreeModelContentProvider.java:565)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.doModelChanged(TreeModelContentProvider.java:530)
+	at org.eclipse.debug.internal.ui.viewers.model.TreeModelContentProvider.modelChanged(TreeModelContentProvider.java:506)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy$1.run(DefaultVMModelProxyStrategy.java:153)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.cdt.dsf.ui.viewmodel.DefaultVMModelProxyStrategy.fireModelChanged(DefaultVMModelProxyStrategy.java:157)
+	at org.eclipse.cdt.dsf.ui.viewmodel.update.AbstractCachingVMProvider$6.handleSuccess(AbstractCachingVMProvider.java:941)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.runInSwtThread(SimpleDisplayExecutor.java:116)
+	at org.eclipse.cdt.dsf.ui.concurrent.SimpleDisplayExecutor.lambda$0(SimpleDisplayExecutor.java:81)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3961)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3588)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:633)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-28 21:41:33.546
+!MESSAGE Indexed 'STM32_HelloWorld' (54 sources, 122 headers) in 12.5 sec: 13,723 declarations; 46,952 references; 0 unresolved inclusions; 143 syntax errors; 55 unresolved names (0.091%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-12-28 21:41:43.652
+!MESSAGE Indexed 'STM32_HelloWorld' (54 sources, 122 headers) in 5.68 sec: 13,723 declarations; 46,952 references; 0 unresolved inclusions; 143 syntax errors; 55 unresolved names (0.091%)
+!SESSION 2020-12-29 10:56:43.227 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-29 10:57:11.031
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-29 10:57:48.683
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-29 10:57:49.951
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.jface 2 0 2020-12-29 13:08:16.834
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1965)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2020-12-29 15:56:52.276
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:242)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:106)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:94)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:299)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:860)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:719)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1017)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1220)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2020-12-29 15:56:52.341
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2020-12-29 15:56:52.341
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 0
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 5012 2020-12-29 16:03:24.623
+!MESSAGE Error in final launch sequence:
+
+Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:112)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:242)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:106)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:94)
+	at com.st.stm32cube.ide.mcu.debug.launch.DSFDelegate.launch(DSFDelegate.java:299)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:860)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:719)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1017)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1220)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SUBENTRY 1 org.eclipse.cdt.dsf 4 10004 2020-12-29 16:03:24.623
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!SUBENTRY 2 org.eclipse.cdt.dsf.gdb 4 10004 2020-12-29 16:03:24.623
+!MESSAGE Failed to execute MI command:
+monitor arm semihosting enable
+Error message from debugger back end:
+Protocol error with Rcmd
+!STACK 0
+java.lang.Exception: Protocol error with Rcmd
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.processMIOutput(AbstractMIControl.java:993)
+	at org.eclipse.cdt.dsf.mi.service.command.AbstractMIControl$RxThread.run(AbstractMIControl.java:822)
+!SESSION 2020-12-29 22:13:53.974 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-29 22:16:03.755
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-29 22:20:02.421
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-29 22:20:03.391
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2020-12-30 13:59:54.004 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-12-30 14:00:42.259
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-12-30 14:01:16.902
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-12-30 14:01:17.796
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2021-01-13 16:34:56.659 -----------------------------------------------
+eclipse.buildId=Version 1.4.2
+java.version=1.8.0_242
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-01-13 16:36:07.855
+!MESSAGE Log4j initialized with config file Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-01-13 16:38:22.388
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-01-13 16:38:23.357
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
