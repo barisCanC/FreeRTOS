@@ -2,6 +2,10 @@ Third-Party/FreeRTOS/org/Source/list.o: \
  ../Third-Party/FreeRTOS/org/Source/list.c \
  Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/FreeRTOS.h \
  Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Config/FreeRTOSConfig.h \
+ Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h \
+ Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/SEGGER/SEGGER_SYSVIEW.h \
+ Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/SEGGER/SEGGER.h \
+ Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/Config/Global.h \
  Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/projdefs.h \
  Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/portable.h \
  Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/deprecated_definitions.h \
@@ -12,6 +16,14 @@ Third-Party/FreeRTOS/org/Source/list.o: \
 Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/FreeRTOS.h:
 
 Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Config/FreeRTOSConfig.h:
+
+Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/OS/SEGGER_SYSVIEW_FreeRTOS.h:
+
+Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/SEGGER/SEGGER_SYSVIEW.h:
+
+Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/SEGGER/SEGGER.h:
+
+Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/SEGGER/Config/Global.h:
 
 Y:/udemy/FastBit\ Embedded/Workspace/RTOS_workspace/STM32_HelloWorld/Third-Party/FreeRTOS/org/Source/include/projdefs.h:
 

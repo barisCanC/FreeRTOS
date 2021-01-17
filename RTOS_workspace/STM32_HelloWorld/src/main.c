@@ -50,6 +50,8 @@ int main(void)
 	puts("This is hello world example code");
 #endif
 
+	DWT ->CTRL |= (1 << 0); 	// Enable the cycle counting(CYCCNT) in DWT_CTRL
+
 	//1. Reset the RCC Clock configuration to the default reset state
 	//HSI ON, HSE, PLL OFF, system clock = 16 MHz, CPU clock = 16 MHz
 	RCC_DeInit();
@@ -62,6 +64,10 @@ int main(void)
 
 	sprintf(usr_msg, "This is hello world app starting\r\n");
 	printmsg(usr_msg);
+
+	//start recording
+	SEGGER_SYSVIEW_Conf();
+	SEGGER_SYSVIEW_Start();
 
 	//3. lets create 2 tasks, task-1 and task-2
 	xTaskCreate(vTask1_handler, "Task-1", configMINIMAL_STACK_SIZE, NULL, 2, &xTaskHandle1 );
@@ -79,12 +85,14 @@ int main(void)
 
 void vTask1_handler (void *params)
 {
-	while(1){
+	while(1){	//added key for not corruption btw task1 and task2
 		if(UART_ACCESS_KEY == AVAILABLE){
 			UART_ACCESS_KEY = NOT_AVAILABLE;
 			printmsg("Hello world: from task1\r\n");
 			UART_ACCESS_KEY = AVAILABLE;
-			taskYIELD();
+			//taskyield yapılmasının sebebi sadece task1 çalışıyordu
+			//ve belki de key, available olduğunda task2 task1 ı preempt etmiyordu
+			taskYIELD();	// leaving CPU by manually triggering the context switch
 		}
 	}
 }
