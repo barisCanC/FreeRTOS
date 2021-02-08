@@ -50,7 +50,7 @@ int main(void)
 	puts("This is hello world example code");
 #endif
 
-	DWT ->CTRL |= (1 << 0); 	// Enable the cycle counting(CYCCNT) in DWT_CTRL
+	DWT ->CTRL |= (1 << 0); 	// Enable the cycle counting(CYCCNT) in DWT_CTRL for SEGGER Systemview Timestamp maintaining
 
 	//1. Reset the RCC Clock configuration to the default reset state
 	//HSI ON, HSE, PLL OFF, system clock = 16 MHz, CPU clock = 16 MHz
@@ -131,8 +131,8 @@ static void prvSetupUart(void)
 	GPIO_Init(GPIOD, &gpio_uart_pins);
 
 	//3. AF mode settings for the pins
-	GPIO_PinAFConfig(GPIOD, GPIO_PinSource8, GPIO_AF_USART3); //PA8
-	GPIO_PinAFConfig(GPIOD, GPIO_PinSource9, GPIO_AF_USART3); //PA9
+	GPIO_PinAFConfig(GPIOD, GPIO_PinSource8, GPIO_AF_USART3); //PD8
+	GPIO_PinAFConfig(GPIOD, GPIO_PinSource9, GPIO_AF_USART3); //PD9
 
 	//4. UART parameter initializations
 	//making zero each member element of the structure
