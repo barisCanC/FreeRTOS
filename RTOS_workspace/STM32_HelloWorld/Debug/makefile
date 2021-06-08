@@ -1,5 +1,6 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (9-2020-q2-update)
 ################################################################################
 
 -include ../makefile.init
@@ -34,6 +35,12 @@ endif
 
 -include ../makefile.defs
 
+OPTIONAL_TOOL_DEPS := \
+$(wildcard ../makefile.defs) \
+$(wildcard ../makefile.init) \
+$(wildcard ../makefile.targets) \
+
+
 BUILD_ARTIFACT_NAME := STM32_HelloWorld
 BUILD_ARTIFACT_EXTENSION := elf
 BUILD_ARTIFACT_PREFIX := 
@@ -60,22 +67,22 @@ all: main-build
 main-build: STM32_HelloWorld.elf secondary-outputs
 
 # Tool invocations
-STM32_HelloWorld.elf: $(OBJS) $(USER_OBJS) Y:\udemy\FastBit\ Embedded\Workspace\RTOS_workspace\STM32_HelloWorld\STM32F429ZITX_FLASH.ld
+STM32_HelloWorld.elf: $(OBJS) $(USER_OBJS) Y:\udemy\FastBit\ Embedded\Workspace\RTOS_workspace\STM32_HelloWorld\STM32F429ZITX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	arm-none-eabi-gcc -o "STM32_HelloWorld.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\STM32_HelloWorld\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32_HelloWorld.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
-default.size.stdout: $(EXECUTABLES)
+default.size.stdout: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	arm-none-eabi-size  $(EXECUTABLES)
 	@echo 'Finished building: $@'
 	@echo ' '
 
-STM32_HelloWorld.list: $(EXECUTABLES)
+STM32_HelloWorld.list: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	arm-none-eabi-objdump -h -S $(EXECUTABLES) > "STM32_HelloWorld.list"
 	@echo 'Finished building: $@'
 	@echo ' '
 
-STM32_HelloWorld.bin: $(EXECUTABLES)
+STM32_HelloWorld.bin: $(EXECUTABLES) makefile objects.list $(OPTIONAL_TOOL_DEPS)
 	arm-none-eabi-objcopy  -O binary $(EXECUTABLES) "STM32_HelloWorld.bin"
 	@echo 'Finished building: $@'
 	@echo ' '

@@ -1,10 +1,10 @@
-16:35:58 **** Incremental Build of configuration Debug for project STM32_HelloWorld ****
+19:58:01 **** Incremental Build of configuration Debug for project STM32_HelloWorld ****
 make -j4 all 
 arm-none-eabi-size   STM32_HelloWorld.elf 
    text	   data	    bss	    dec	    hex	filename
-  14436	     52	  88764	 103252	  19354	STM32_HelloWorld.elf
+  16872	    152	  88792	 105816	  19d58	STM32_HelloWorld.elf
 Finished building: default.size.stdout
  
 
-16:36:01 Build Finished. 0 errors, 0 warnings. (took 2s.988ms)
+19:58:02 Build Finished. 0 errors, 0 warnings. (took 1s.250ms)
 

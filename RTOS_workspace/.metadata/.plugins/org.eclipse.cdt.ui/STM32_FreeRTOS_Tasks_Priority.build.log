@@ -1,0 +1,10 @@
+15:40:02 **** Incremental Build of configuration Debug for project STM32_FreeRTOS_Tasks_Priority ****
+make -j4 all 
+arm-none-eabi-size   STM32_FreeRTOS_Tasks_Priority.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18884	    148	  96988	 116020	  1c534	STM32_FreeRTOS_Tasks_Priority.elf
+Finished building: default.size.stdout
+ 
+
+15:40:05 Build Finished. 0 errors, 0 warnings. (took 2s.448ms)
+

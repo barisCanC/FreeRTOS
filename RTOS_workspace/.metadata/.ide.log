@@ -1256,3 +1256,511 @@
 
 
 2021-02-07 09:27:59,773 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-11 09:40:35,595 [INFO] Activator:170 - 
+
+
+2021-02-11 09:40:35,642 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-12 08:06:39,221 [INFO] Activator:170 - 
+
+
+2021-02-12 08:06:39,300 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-12 09:51:05,108 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2021-02-12 09:51:23,800 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304
+2021-02-12 09:51:24,810 [INFO] DbMcusXml:71 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/mcu/
+2021-02-12 09:51:25,123 [INFO] DbBoardsPdsc:57 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/boardmanager/
+2021-02-12 09:51:25,123 [INFO] DbMcus:259 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:25,123 [INFO] DbBoards:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:25,568 [INFO] DbExamples:329 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:27,568 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:27,599 [INFO] DbMcusJson:63 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:27,599 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:27,677 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:28,209 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-02-12 09:51:28,926 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:32,061 [INFO] RulesReader:52 - Compatibility file has been processed (228 Rules)
+2021-02-12 09:51:34,314 [INFO] MicroXplorer:565 - Detected Java Version = 1.8.0_242
+2021-02-12 09:51:34,314 [INFO] DbMcusXml:71 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/mcu/
+2021-02-12 09:51:34,329 [INFO] DbBoardsPdsc:57 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/boardmanager/
+2021-02-12 09:51:34,329 [INFO] DbMcus:259 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:34,329 [INFO] DbBoards:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:34,329 [INFO] DbExamples:329 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] DbMcusJson:63 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-02-12 09:51:34,329 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:34,329 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:35,826 [INFO] MainPanel:190 - HeapMemory: 324009984
+2021-02-12 09:51:37,503 [INFO] DbMcusXml:71 - Set database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/mcu/
+2021-02-12 09:51:37,503 [INFO] DbBoardsPdsc:57 - Set plugin database path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/boardmanager/
+2021-02-12 09:51:37,503 [INFO] DbMcus:259 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:37,503 [INFO] DbBoards:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:37,503 [INFO] DbExamples:329 - Set plugin images path to: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/plugins/mcufinder/images/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] DbMcusJson:63 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/cs/
+2021-02-12 09:51:37,534 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\yagmu\.stmcufinder\plugins\mcufinder/ => C:\Users\yagmu\.stmcufinder\plugins\mcufinder
+2021-02-12 09:51:37,534 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\yagmu\.stmcufinder\plugins\mcufinder//mcu/
+2021-02-12 09:51:37,924 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304
+2021-02-12 09:51:37,924 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2021-02-12 09:51:38,190 [INFO] PluginManage:292 - Check plugin analytics
+2021-02-12 09:51:42,893 [INFO] AnalyticsPlugin:225 - Accepted Software Licenses: 
+2021-02-12 09:51:42,893 [INFO] AnalyticsPlugin:227 - Accepted CMSIS Pack Licenses: 
+2021-02-12 09:51:42,924 [INFO] AnalyticsPlugin:229 - Accepted Firmware Licenses: 
+2021-02-12 09:51:42,940 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2021-02-12 09:51:42,940 [INFO] PluginManage:292 - Check plugin clock
+2021-02-12 09:51:43,533 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2021-02-12 09:51:43,533 [INFO] PluginManage:292 - Check plugin ddr
+2021-02-12 09:51:43,627 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2021-02-12 09:51:43,627 [INFO] PluginManage:292 - Check plugin filemanager
+2021-02-12 09:51:45,518 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2021-02-12 09:51:45,518 [INFO] PluginManage:292 - Check plugin ipmanager
+2021-02-12 09:51:45,908 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2021-02-12 09:51:45,908 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2021-02-12 09:51:46,127 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2021-02-12 09:51:46,127 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2021-02-12 09:51:46,924 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2021-02-12 09:51:46,924 [INFO] PluginManage:292 - Check plugin power
+2021-02-12 09:51:47,596 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2021-02-12 09:51:47,596 [INFO] PluginManage:292 - Check plugin projectmanager
+2021-02-12 09:51:47,877 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2021-02-12 09:51:47,877 [INFO] PluginManage:292 - Check plugin thirdparty
+2021-02-12 09:51:52,408 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2021-02-12 09:51:52,408 [INFO] PluginManage:292 - Check plugin tools
+2021-02-12 09:51:52,408 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2021-02-12 09:51:52,470 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2021-02-12 09:51:52,502 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [1/15]
+2021-02-12 09:51:52,502 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2021-02-12 09:51:52,502 [INFO] PluginManage:292 - Check plugin tutovideos
+2021-02-12 09:51:55,517 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [2/15]
+2021-02-12 09:51:57,693 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2021-02-12 09:51:57,693 [INFO] PluginManage:292 - Check plugin updater
+2021-02-12 09:51:58,264 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2021-02-12 09:51:58,264 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2021-02-12 09:51:58,520 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [3/15]
+2021-02-12 09:52:01,529 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [4/15]
+2021-02-12 09:52:04,534 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [5/15]
+2021-02-12 09:52:05,081 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2021-02-12 09:52:07,252 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:07,252 [INFO] PluginManager:203 - loadIPPluginJar : add adc
+2021-02-12 09:52:07,471 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:07,471 [INFO] PluginManager:203 - loadIPPluginJar : add aes
+2021-02-12 09:52:07,549 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [6/15]
+2021-02-12 09:52:07,737 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:07,909 [INFO] PluginManager:203 - loadIPPluginJar : add can
+2021-02-12 09:52:08,018 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,018 [INFO] PluginManager:203 - loadIPPluginJar : add comp
+2021-02-12 09:52:08,080 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,080 [INFO] PluginManager:203 - loadIPPluginJar : add cryp
+2021-02-12 09:52:08,112 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,112 [INFO] PluginManager:203 - loadIPPluginJar : add dfsdm
+2021-02-12 09:52:08,565 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,565 [INFO] PluginManager:203 - loadIPPluginJar : add dma
+2021-02-12 09:52:08,721 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,721 [INFO] PluginManager:203 - loadIPPluginJar : add fatfs
+2021-02-12 09:52:08,783 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:08,783 [INFO] PluginManager:203 - loadIPPluginJar : add fmc
+2021-02-12 09:52:09,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:09,283 [INFO] PluginManager:203 - loadIPPluginJar : add freertos
+2021-02-12 09:52:09,471 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:09,471 [INFO] PluginManager:203 - loadIPPluginJar : add genericplugin
+2021-02-12 09:52:10,105 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:10,106 [INFO] PluginManager:203 - loadIPPluginJar : add gfxmmu
+2021-02-12 09:52:10,413 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:10,413 [INFO] PluginManager:203 - loadIPPluginJar : add gic
+2021-02-12 09:52:10,554 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [7/15]
+2021-02-12 09:52:10,616 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:10,616 [INFO] PluginManager:203 - loadIPPluginJar : add gpio
+2021-02-12 09:52:10,788 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:10,788 [INFO] PluginManager:203 - loadIPPluginJar : add gtzc
+2021-02-12 09:52:10,850 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:10,850 [INFO] PluginManager:203 - loadIPPluginJar : add hash
+2021-02-12 09:52:11,091 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,091 [INFO] PluginManager:203 - loadIPPluginJar : add i2c
+2021-02-12 09:52:11,154 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,154 [INFO] PluginManager:203 - loadIPPluginJar : add i2s
+2021-02-12 09:52:11,232 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,232 [INFO] PluginManager:203 - loadIPPluginJar : add ipddr
+2021-02-12 09:52:11,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,310 [INFO] PluginManager:203 - loadIPPluginJar : add lorawan
+2021-02-12 09:52:11,341 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,341 [INFO] PluginManager:203 - loadIPPluginJar : add ltdc
+2021-02-12 09:52:11,408 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,408 [INFO] PluginManager:203 - loadIPPluginJar : add mdma
+2021-02-12 09:52:11,486 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,486 [INFO] PluginManager:203 - loadIPPluginJar : add nvic
+2021-02-12 09:52:11,580 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,580 [INFO] PluginManager:203 - loadIPPluginJar : add opamp
+2021-02-12 09:52:11,658 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,751 [INFO] PluginManager:203 - loadIPPluginJar : add openamp
+2021-02-12 09:52:11,798 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:11,798 [INFO] PluginManager:203 - loadIPPluginJar : add pdm2pcm
+2021-02-12 09:52:11,986 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,080 [INFO] PluginManager:203 - loadIPPluginJar : add plateformsettings
+2021-02-12 09:52:12,095 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,095 [INFO] PluginManager:203 - loadIPPluginJar : add quadspi
+2021-02-12 09:52:12,345 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,345 [INFO] PluginManager:203 - loadIPPluginJar : add resmgrutility
+2021-02-12 09:52:12,439 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,439 [INFO] PluginManager:203 - loadIPPluginJar : add sai
+2021-02-12 09:52:12,470 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,470 [INFO] PluginManager:203 - loadIPPluginJar : add spi
+2021-02-12 09:52:12,548 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,548 [INFO] PluginManager:203 - loadIPPluginJar : add stm32_wpan
+2021-02-12 09:52:12,579 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,579 [INFO] PluginManager:203 - loadIPPluginJar : add tim
+2021-02-12 09:52:12,658 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,658 [INFO] PluginManager:203 - loadIPPluginJar : add touchsensing
+2021-02-12 09:52:12,876 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,876 [INFO] PluginManager:203 - loadIPPluginJar : add tracer_emb
+2021-02-12 09:52:12,970 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,970 [INFO] PluginManager:203 - loadIPPluginJar : add ts
+2021-02-12 09:52:12,986 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:12,986 [INFO] PluginManager:203 - loadIPPluginJar : add tsc
+2021-02-12 09:52:13,064 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:13,064 [INFO] PluginManager:203 - loadIPPluginJar : add ucpd
+2021-02-12 09:52:13,095 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2021-02-12 09:52:13,095 [INFO] PluginManager:203 - loadIPPluginJar : add usart
+2021-02-12 09:52:13,564 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [8/15]
+2021-02-12 09:52:16,579 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:16,579 [ERROR] AbstractThirdPartyUpdaterManager:153 - java.lang.Integer cannot be cast to java.util.List
+2021-02-12 09:52:16,579 [INFO] ThirdParty:887 - Integrity check success = false
+2021-02-12 09:52:16,579 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2021-02-12 09:52:16,579 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2021-02-12 09:52:23,954 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:24,782 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:26,454 [WARN] DetailPanel:347 - Failed to get advertising image, set to default
+2021-02-12 09:52:26,485 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:26,485 [WARN] DetailPanel:347 - Failed to get advertising image, set to default
+2021-02-12 09:52:26,751 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:26,751 [WARN] ThirdParty:783 - waiting for thirdparty lock release [close project]
+2021-02-12 09:52:26,751 [INFO] ThirdParty:785 - entering critical section [close project]
+2021-02-12 09:52:26,751 [INFO] ThirdParty:796 - exiting critical section [close project]
+2021-02-12 09:52:26,751 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2021-02-12 09:52:26,751 [FATAL] Updater:284 - Updater called before beeing initialized
+2021-02-12 09:52:27,110 [ERROR] Updater:1065 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2021-02-12 09:52:27,548 [INFO] Updater:1002 - Updater Version found : 6.1.1
+2021-02-12 09:52:27,923 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304
+2021-02-12 09:52:33,797 [INFO] MainUpdater:2644 - connection check result : 10
+2021-02-12 09:52:33,797 [INFO] MainUpdater:3332 - Updater definition file requires update
+2021-02-12 09:52:33,813 [INFO] MainUpdater:249 - Updater Check For Update Now.
+2021-02-12 09:52:33,813 [INFO] MicroXplorer:415 - Change Database Version : DB.6.0.10
+2021-02-12 09:52:34,672 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2021-02-12 09:52:35,688 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2021-02-12 09:52:35,688 [INFO] FileExtend:240 - Standard Zip Deflate
+2021-02-12 09:52:48,848 [INFO] MainUpdater:2644 - connection check result : 10
+2021-02-12 09:53:11,601 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2021-02-12 09:53:12,085 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2021-02-12 09:53:12,663 [INFO] LoadServerUpdatesThread:329 - End of LoadServerUpdate Thread
+2021-02-12 09:53:12,773 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2021-02-12 09:53:26,475 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\yagmu\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2021-02-12 09:53:26,506 [INFO] MultiScanPanel:198 - Auto-refresh data requested => check proxy status ongoing
+2021-02-12 09:53:26,506 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2021-02-12 09:53:26,553 [INFO] DbMcusXml:97 - Load MCU database from C:\ST\STM32CubeIDE_1.3.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.1.202012091304\\db\/mcu/families.xml
+2021-02-12 09:53:34,833 [INFO] DbMcusJson:92 - JSON generation date=Wed Dec 09 20:22:40 EET 2020 (1607534560)
+2021-02-12 09:53:38,128 [INFO] DbMcus:176 - Found 1835 MCUs (1796 are supported by CubeMX, 1804 are visible in CubeMX)
+2021-02-12 09:53:38,206 [INFO] ApiDb:238 - Load user favorites file C:\Users\yagmu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-02-12 09:53:38,206 [INFO] ApiDb:242 - User favorites MCUs=[]
+2021-02-12 09:53:38,206 [INFO] DbMcus:188 - Set 0 / 0 favorites MCUs
+2021-02-12 09:53:46,486 [INFO] DetailPanel:344 - Set advertising image to C:/Users/yagmu/STM32Cube/Repository/\stm32cubemx-promo_image.jpg
+2021-02-12 09:53:48,190 [INFO] McuFilterPanel:245 - Update 0 favorites MCUs
+2021-02-12 09:53:48,995 [INFO] DbBoardsPdsc:91 - Found 24 items
+2021-02-12 09:53:49,011 [INFO] DbBoardsPdsc:91 - Found 9 items
+2021-02-12 09:53:49,152 [INFO] DbBoardsPdsc:91 - Found 32 items
+2021-02-12 09:53:49,183 [INFO] DbBoardsPdsc:91 - Found 1 items
+2021-02-12 09:53:49,473 [INFO] DbBoardsPdsc:91 - Found 45 items
+2021-02-12 09:53:49,637 [INFO] DbBoardsPdsc:91 - Found 41 items
+2021-02-12 09:53:49,653 [INFO] DbBoardsPdsc:91 - Found 2 items
+2021-02-12 09:53:49,700 [INFO] DbBoardsPdsc:91 - Found 4 items
+2021-02-12 09:53:49,778 [WARN] DbBoardsPdsc:255 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2021-02-12 09:53:49,778 [WARN] DbBoardsPdsc:255 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2021-02-12 09:53:49,778 [WARN] DbBoardsPdsc:255 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2021-02-12 09:53:49,778 [WARN] DbBoardsPdsc:255 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2021-02-12 09:53:49,778 [WARN] DbBoardsPdsc:255 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2021-02-12 09:53:50,012 [INFO] DbBoardsJson:85 - JSON generation date=Thu Nov 05 17:55:26 EET 2020 (1604588126)
+2021-02-12 09:53:50,028 [INFO] DbBoards:118 - Found 158 boards (155 are supported by CubeMX)
+2021-02-12 09:53:50,427 [INFO] DbBoardsDocs:145 - JSON generation date=Wed Dec 09 20:22:40 EET 2020 (1607534560)
+2021-02-12 09:53:50,463 [INFO] DbBoardsDocs:81 - Found 190 boards documents
+2021-02-12 09:53:50,464 [WARN] DbBoards:128 - board B-L462E-CELL1 has no document id list !
+2021-02-12 09:53:50,464 [WARN] DbBoards:128 - board B-L475E-IOT01A2 has no document id list !
+2021-02-12 09:53:50,465 [WARN] DbBoards:128 - board NUCLEO-G0B1RE has no document id list !
+2021-02-12 09:53:50,466 [WARN] DbBoards:128 - board NUCLEO-G491RE has no document id list !
+2021-02-12 09:53:50,466 [WARN] DbBoards:128 - board NUCLEO-H743ZI2 has no document id list !
+2021-02-12 09:53:50,467 [WARN] DbBoards:128 - board NUCLEO-L4A6ZG has no document id list !
+2021-02-12 09:53:50,468 [WARN] DbBoards:128 - board NUCLEO-WB55RG has no document id list !
+2021-02-12 09:53:50,468 [WARN] DbBoards:128 - board NUCLEO-WL55JC1 has no document id list !
+2021-02-12 09:53:50,469 [WARN] DbBoards:128 - board NUCLEO-WL55JC2 has no document id list !
+2021-02-12 09:53:50,469 [WARN] DbBoards:128 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2021-02-12 09:53:50,469 [WARN] DbBoards:128 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2021-02-12 09:53:50,470 [WARN] DbBoards:128 - board STEVAL-BFA001V1B has no document id list !
+2021-02-12 09:53:50,470 [WARN] DbBoards:128 - board STEVAL-BFA001V2B has no document id list !
+2021-02-12 09:53:50,470 [WARN] DbBoards:128 - board STEVAL-IDP005V1 has no document id list !
+2021-02-12 09:53:50,470 [WARN] DbBoards:128 - board STEVAL-IDP005V2 has no document id list !
+2021-02-12 09:53:50,471 [WARN] DbBoards:128 - board STEVAL-MKSBOX1V1 has no document id list !
+2021-02-12 09:53:50,471 [WARN] DbBoards:128 - board STEVAL-STWINKT1 has no document id list !
+2021-02-12 09:53:50,472 [WARN] DbBoards:128 - board STM32F401C-DISCO has no document id list !
+2021-02-12 09:53:50,474 [WARN] DbBoards:128 - board STM32F769I-DISC1 has no document id list !
+2021-02-12 09:53:50,474 [WARN] DbBoards:128 - board STM32G0C1E-EV has no document id list !
+2021-02-12 09:53:50,474 [WARN] DbBoards:128 - board STM32G474E-EVAL1 has no document id list !
+2021-02-12 09:53:50,475 [WARN] DbBoards:128 - board STM32H743I-EVAL2 has no document id list !
+2021-02-12 09:53:50,475 [WARN] DbBoards:128 - board STM32H747I-DISC1 has no document id list !
+2021-02-12 09:53:50,476 [WARN] DbBoards:128 - board STM32H753I-EVAL2 has no document id list !
+2021-02-12 09:53:50,476 [WARN] DbBoards:128 - board STM32L-DISCOVERY has no document id list !
+2021-02-12 09:53:50,477 [WARN] DbBoards:128 - board STM32MP157A-DK1 has no document id list !
+2021-02-12 09:53:50,478 [WARN] DbBoards:128 - board STM32MP157F-DK2 has no document id list !
+2021-02-12 09:53:50,478 [WARN] DbBoards:128 - board STM32MP157F-EV1 has no document id list !
+2021-02-12 09:54:04,945 [INFO] ApiDb:238 - Load user favorites file C:\Users\yagmu/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2021-02-12 09:54:04,945 [INFO] ApiDb:242 - User favorites Boards=[]
+2021-02-12 09:54:04,945 [INFO] DbBoards:207 - Set 0 / 0 favorites Boards
+2021-02-12 09:54:23,756 [INFO] MultiScanPanel:198 - Auto-refresh data requested => check proxy status ongoing
+2021-02-12 09:54:24,037 [INFO] DetailPanel:344 - Set advertising image to C:/Users/yagmu/STM32Cube/Repository/\stm32cubemx-promo_image.jpg
+2021-02-12 09:54:24,115 [INFO] BoardFilterPanel:214 - Update 0 favorites Boards
+2021-02-12 09:55:41,110 [INFO] ApiDb:263 - Save user favorites file C:\Users\yagmu/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2021-02-12 09:55:41,110 [INFO] ApiDb:267 - User favorites MCUs=[]
+2021-02-12 09:55:41,110 [INFO] ApiDb:263 - Save user favorites file C:\Users\yagmu/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2021-02-12 09:55:41,110 [INFO] ApiDb:267 - User favorites Boards=[]
+2021-02-13 00:54:24,975 [INFO] Activator:170 - 
+
+
+2021-02-13 00:54:25,365 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-20 17:25:24,916 [INFO] Activator:170 - 
+
+
+2021-02-20 17:25:24,985 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-21 08:30:28,169 [INFO] Activator:170 - 
+
+
+2021-02-21 08:30:28,309 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-22 18:36:57,416 [INFO] Activator:170 - 
+
+
+2021-02-22 18:36:57,452 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-23 12:38:43,704 [INFO] Activator:170 - 
+
+
+2021-02-23 12:38:43,763 [INFO] Activator:171 - !SESSION log4j initialized
+2021-02-28 08:19:15,348 [INFO] Activator:170 - 
+
+
+2021-02-28 08:19:15,396 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-01 18:48:45,942 [INFO] Activator:170 - 
+
+
+2021-03-01 18:48:45,998 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-01 23:24:27,468 [INFO] Activator:170 - 
+
+
+2021-03-01 23:24:27,499 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-02 09:08:14,317 [INFO] Activator:170 - 
+
+
+2021-03-02 09:08:14,620 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-02 09:26:42,340 [INFO] Activator:170 - 
+
+
+2021-03-02 09:26:42,355 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-02 10:25:49,456 [INFO] Activator:170 - 
+
+
+2021-03-02 10:25:49,489 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-02 10:25:56,452 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-02 10:25:56,457 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-02 10:25:56,503 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-02 18:46:32,040 [INFO] Activator:170 - 
+
+
+2021-03-02 18:46:32,103 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-02 18:46:36,571 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-02 18:46:36,571 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-02 18:46:36,587 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-03 19:50:53,758 [INFO] Activator:170 - 
+
+
+2021-03-03 19:50:53,793 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-03 19:50:59,405 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-03 19:50:59,421 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-03 19:50:59,499 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-03 19:52:13,989 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-03 19:52:14,005 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-04 18:01:04,255 [INFO] Activator:170 - 
+
+
+2021-03-04 18:01:04,288 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-04 18:01:08,021 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-04 18:01:08,025 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-04 18:01:08,045 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-04 18:02:00,694 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-04 18:02:00,710 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-04 18:02:15,629 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-04 18:02:15,629 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-04 18:02:16,144 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-04 18:02:16,144 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-04 18:02:16,707 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-04 18:02:16,707 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-04 18:02:17,301 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-04 18:02:17,301 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:13:38,616 [INFO] Activator:170 - 
+
+
+2021-03-12 22:13:38,648 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-12 22:13:43,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-12 22:13:43,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-12 22:13:43,235 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-12 22:14:34,621 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:14:34,626 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:02,696 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-12 22:15:02,697 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-12 22:15:03,244 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-12 22:15:03,264 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-12 22:15:04,200 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-12 22:15:04,200 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-12 22:15:06,104 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:06,105 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:06,894 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:06,895 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:07,636 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:07,637 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:08,795 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:08,796 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:09,687 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:09,687 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:10,504 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:10,504 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:11,413 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:11,413 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:12,366 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:12,367 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:13,118 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:13,118 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:13,871 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:13,871 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:14,597 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:14,598 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-12 22:15:15,351 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-12 22:15:15,351 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:18:55,060 [INFO] Activator:170 - 
+
+
+2021-03-13 08:18:55,114 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-13 08:19:12,123 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 08:19:12,128 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 08:19:12,186 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 08:20:01,874 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:01,884 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:03,434 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-13 08:20:03,434 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-13 08:20:29,563 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:29,563 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:30,219 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:30,219 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:30,751 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:30,751 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:32,188 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:32,188 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:32,844 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:32,844 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:33,500 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:33,500 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:34,094 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:34,094 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:34,672 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:34,672 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:35,282 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:35,282 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:35,844 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:35,844 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 08:20:36,407 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 08:20:36,407 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:08:44,608 [INFO] Activator:170 - 
+
+
+2021-03-13 16:08:44,637 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-13 16:08:48,450 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 16:08:48,455 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 16:08:48,474 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-13 16:09:32,140 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:09:32,144 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:09:58,739 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-13 16:09:58,740 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-13 16:09:59,215 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-13 16:09:59,216 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-13 16:10:00,157 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-13 16:10:00,157 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-13 16:10:02,005 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:02,005 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:02,816 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:02,817 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:03,637 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:03,638 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:04,499 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:04,500 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:05,290 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:05,290 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:06,111 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:06,112 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:06,889 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:06,889 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:07,723 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:07,724 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:08,546 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:08,547 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:09,221 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:09,222 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:09,963 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:09,963 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-13 16:10:10,714 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-13 16:10:10,715 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:34:26,843 [INFO] Activator:170 - 
+
+
+2021-03-14 17:34:26,874 [INFO] Activator:171 - !SESSION log4j initialized
+2021-03-14 17:34:32,690 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-14 17:34:32,706 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-14 17:34:32,737 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Could not load icon "icons/chip.png".
+2021-03-14 17:35:20,058 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:35:20,073 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:35:21,440 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-14 17:35:21,440 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-14 17:35:52,926 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-14 17:35:52,927 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-14 17:35:56,753 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2021-03-14 17:35:56,754 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2021-03-14 17:36:01,598 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:01,599 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:02,373 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:02,373 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:03,551 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:03,552 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:04,364 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:04,365 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:05,334 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:05,335 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:06,176 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:06,176 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:07,366 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:07,367 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:08,248 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:08,249 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:09,103 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:09,103 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:09,878 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:09,879 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:10,565 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:10,566 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2021-03-14 17:36:11,435 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2021-03-14 17:36:11,435 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443

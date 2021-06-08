@@ -1,0 +1,20 @@
+16:52:22 **** Incremental Build of configuration Debug for project STM32_FreeRTOS_Queue_Processing ****
+make -j4 all 
+arm-none-eabi-gcc "../src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DSTM32 -DUSE_STDPERIPH_DRIVER -DSTM32F429_439xx -DSTM32F429ZITx -DSTM32F4 -DDEBUG -DNUCLEO_F429ZI -c -I../Inc -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Third-Party/SEGGER/Config" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Third-Party/SEGGER/OS" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Third-Party/SEGGER/SEGGER" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Config" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Third-Party/FreeRTOS/org/Source/include" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/Third-Party/FreeRTOS/org/Source/portable/GCC/ARM_CM4F" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/CMSIS/core" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/inc" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/StdPeriph_Driver/inc" -I"Y:/udemy/FastBit Embedded/Workspace/RTOS_workspace/STM32_FreeRTOS_Queue_Processing/CMSIS/device" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"src/main.d" -MT"src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "src/main.o"
+arm-none-eabi-gcc -o "STM32_FreeRTOS_Queue_Processing.elf" @"objects.list"   -mcpu=cortex-m4 -T"Y:\udemy\FastBit Embedded\Workspace\RTOS_workspace\STM32_FreeRTOS_Queue_Processing\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32_FreeRTOS_Queue_Processing.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32_FreeRTOS_Queue_Processing.elf
+ 
+arm-none-eabi-objdump -h -S  STM32_FreeRTOS_Queue_Processing.elf  > "STM32_FreeRTOS_Queue_Processing.list"
+arm-none-eabi-objcopy  -O binary  STM32_FreeRTOS_Queue_Processing.elf  "STM32_FreeRTOS_Queue_Processing.bin"
+arm-none-eabi-size   STM32_FreeRTOS_Queue_Processing.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26572	    380	  97156	 124108	  1e4cc	STM32_FreeRTOS_Queue_Processing.elf
+Finished building: default.size.stdout
+ 
+Finished building: STM32_FreeRTOS_Queue_Processing.bin
+ 
+Finished building: STM32_FreeRTOS_Queue_Processing.list
+ 
+
+16:52:26 Build Finished. 0 errors, 0 warnings. (took 3s.779ms)
+

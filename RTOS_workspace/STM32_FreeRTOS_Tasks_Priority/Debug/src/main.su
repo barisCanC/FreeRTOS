@@ -1,0 +1,11 @@
+core_cm4.h:1547:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1629:22:NVIC_SetPriority	16	static
+main.c:42:5:main	16	static
+main.c:74:6:vTask1_handler	32	static
+main.c:104:6:vTask2_handler	32	static
+main.c:133:13:prvSetupHardware	8	static
+main.c:143:6:printmsg	24	static
+main.c:152:13:prvSetupUart	32	static
+main.c:195:6:prvSetupGpio	32	static
+main.c:239:6:rtos_delay	24	static
+main.c:250:6:EXTI15_10_IRQHandler	8	static

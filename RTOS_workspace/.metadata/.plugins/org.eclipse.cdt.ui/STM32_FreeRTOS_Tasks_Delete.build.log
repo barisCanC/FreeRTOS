@@ -1,0 +1,10 @@
+15:39:56 **** Incremental Build of configuration Debug for project STM32_FreeRTOS_Tasks_Delete ****
+make -j4 all 
+arm-none-eabi-size   STM32_FreeRTOS_Tasks_Delete.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18748	    148	  96988	 115884	  1c4ac	STM32_FreeRTOS_Tasks_Delete.elf
+Finished building: default.size.stdout
+ 
+
+15:39:58 Build Finished. 0 errors, 0 warnings. (took 2s.141ms)
+

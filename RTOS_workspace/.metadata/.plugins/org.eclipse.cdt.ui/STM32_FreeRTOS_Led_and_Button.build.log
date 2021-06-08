@@ -1,10 +1,10 @@
-16:35:26 **** Incremental Build of configuration Debug for project STM32_FreeRTOS_Led_and_Button ****
+15:39:39 **** Incremental Build of configuration Debug for project STM32_FreeRTOS_Led_and_Button ****
 make -j4 all 
 arm-none-eabi-size   STM32_FreeRTOS_Led_and_Button.elf 
    text	   data	    bss	    dec	    hex	filename
-   7640	     48	  78664	  86352	  15150	STM32_FreeRTOS_Led_and_Button.elf
+   7712	     48	  78664	  86424	  15198	STM32_FreeRTOS_Led_and_Button.elf
 Finished building: default.size.stdout
  
 
-16:35:30 Build Finished. 0 errors, 0 warnings. (took 4s.434ms)
+15:39:42 Build Finished. 0 errors, 0 warnings. (took 2s.567ms)
 
